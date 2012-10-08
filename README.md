@@ -15,7 +15,6 @@ Example & Code:
 
 
 
-The current realease has following limitation:
+Limitation:
 ==============================================
    + This is basic version and only renders a Pie chart.
-   + This is designed to work only with GET operations.
